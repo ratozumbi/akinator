@@ -1,0 +1,6 @@
+D:\dev\jogo\jogo\obj\Debug\jogo.csprojResolveAssemblyReference.cache
+D:\dev\jogo\jogo\bin\Debug\jogo.exe.config
+D:\dev\jogo\jogo\bin\Debug\jogo.exe
+D:\dev\jogo\jogo\bin\Debug\jogo.pdb
+D:\dev\jogo\jogo\obj\Debug\jogo.exe
+D:\dev\jogo\jogo\obj\Debug\jogo.pdb
